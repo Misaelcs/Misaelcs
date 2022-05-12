@@ -1,6 +1,6 @@
 Meu nome é **Misael Sauceda**, tenho 24 anos e estou em busca de um _freshStart_ em minha carreira.
 
-✨ estudando Front-end e me familiarizando com o ambiente da programação ✨
+✨ Já saquei algumas coisas de JS, PHP, MySQL, HTML5 e CSS. Me considero referencia em ctrl-C ✨
 
 **HTML5** | **CSS** | **JS**
 <!---

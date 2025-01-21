@@ -1,5 +1,3 @@
-## <strong>Misael Sauceda</strong>
-
 [![Top Langs](https://github-readme-stats-saxk-e8toxi4i5-misaelcs.vercel.app/api/top-langs/?username=Misaelcs&layout=compact&theme=dark)](https://github.com/Misaelcs)
 </br></br>
 <strong>Feel free to reach out to me via any of these contact links: <strong>

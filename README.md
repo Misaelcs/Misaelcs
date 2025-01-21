@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Misael Sauceda</strong> ☝️
 <br>
-![Top Langs](https://github-readme-stats-saxk-e8toxi4i5-misaelcs.vercel.app/api/top-langs/?username=Misaelcs&layout=compact&theme=dark)](https://github.com/Misaelcs)
+[![Top Langs](https://github-readme-stats-saxk-e8toxi4i5-misaelcs.vercel.app/api/top-langs/?username=Misaelcs&layout=compact&theme=dark)](https://github.com/Misaelcs)
 </br></br>
 <strong>Sinta-se à vontade pra me chamar em qualquer um desses links 🚀<strong>
 </br>

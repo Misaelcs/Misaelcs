@@ -1,8 +1,8 @@
-## Olá, meu nome é <strong>Misael Sauceda</strong> ☝️
+## <strong>Misael Sauceda</strong>
 
 [![Top Langs](https://github-readme-stats-saxk-e8toxi4i5-misaelcs.vercel.app/api/top-langs/?username=Misaelcs&layout=compact&theme=dark)](https://github.com/Misaelcs)
 </br></br>
-<strong>Sinta-se à vontade pra me chamar em qualquer um desses links<strong>
+<strong>Feel free to reach out to me via any of these contact links: <strong>
 </br>
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5555991819840)
